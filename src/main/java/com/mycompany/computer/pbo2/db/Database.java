@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Database {
     
     private final String URL = "jdbc:mysql://localhost:3306/";
-    private final String DB_NAME = "praktikum_penjualan";
+    private final String DB_NAME = "computer_ervia";
     private final String USER = "root";
     private final String PASS = "";
 
